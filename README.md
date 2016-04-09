@@ -1,3 +1,3 @@
 # lab
-new ideas
+new ideas<br/>
 GO实验室
